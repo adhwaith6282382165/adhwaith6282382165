@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhwaith6282382165&label=Profile%20views&color=0e75b6&style=flat" alt="adhwaith6282382165" /> </p>
 
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACT**
+
 - 📫 How to reach me **adwaithcreji321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
